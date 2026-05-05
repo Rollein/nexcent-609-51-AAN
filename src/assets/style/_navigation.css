@@ -1,0 +1,14 @@
+.desktop-navigation {
+
+    padding: 22px 0;
+.nav-link{
+    color: black
+}
+}
+/* .desktop-navigation__list {
+    display: flex;
+    gap: 50px;
+} */
+.desktop-navigation__list-element_active{
+    font-weight: 500;
+}
