@@ -1,0 +1,23 @@
+<script setup></script>
+<template>
+            <section class="clients">
+            <div class="container">
+                <h2>
+                    Our clients
+                </h2>
+                <p>
+                    We have been working with some Fortune 500+ clients.
+                </p>
+                <div class="clients__logos gap-3 gap-md-5">
+                    <img src="@/assets/images/clients-logo-1.svg" alt="">
+                    <img src="@/assets/images/clients-logo-2.svg" alt="">
+                    <img src="@/assets/images/clients-logo-3.svg" alt="">
+                    <img src="@/assets/images/clients-logo-4.svg" alt="">
+                    <img src="@/assets/images/clients-logo-5.svg" alt="">
+                    <img src="@/assets/images/clients-logo-6.svg" alt="">
+                </div>
+            </div>
+        </section>
+</template>
+
+<style scoped></style>
